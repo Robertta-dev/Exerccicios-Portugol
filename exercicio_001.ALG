@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "exercicio"
 
 Var
    n1, n2, soma:inteiro
